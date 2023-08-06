@@ -1,0 +1,31 @@
+body {
+  background-image: linear-gradient(darkblue, #6B589F, #6B589F, #6B589F, #6B589F, darkblue);
+}
+
+main {
+  padding-top: 130px;
+}
+
+.carousel-item img {
+  transform: scale(85%);
+}
+
+.card {
+  transform: scale(90%);
+  margin-bottom: 1px;
+}
+
+#preco-pacote {
+  color: blue;
+  font-weight: bold;
+  font-size: large;
+}
+
+.labelcontato {
+  font-weight: bold;
+  color: black;
+}
+
+.card-text {
+  font-size: larger;
+}
